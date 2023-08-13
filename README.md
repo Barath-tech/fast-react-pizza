@@ -12,4 +12,3 @@ Currently, two official plugins are available:
 - Basic ordering and high complex state management are implemented in this webpage
 - This webpage styling is done with the help of Tailwind css
 - This webpage also includes geolocation api to know the user's location and address details precisely
-  
